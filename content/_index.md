@@ -2,39 +2,41 @@
 title: "Are we a Free Iran yet?"
 ---
 
-## The Push for a Free Iran (Feb – Mar 2026)
+Here is a timeline of events leading up to the fall of the Islamic Republic of Iran:
 
-- **Mar 1, 2026** — Khamenei's death confirmed by Iranian state media; 40 days of mourning declared
-- **Mar 1, 2026** — Iran retaliates with missiles toward Israel, UAE, Qatar, and other Gulf states
-- **Feb 28, 2026** — 48+ senior military and political leaders killed, including:
-  - **Mohammad Pakpour** — IRGC Commander-in-Chief
-  - **Ali Shamkhani** — Secretary, Supreme National Security Council
-  - **Abdolrahim Mousavi** — Chief of Staff, Iranian Armed Forces
-  - **Aziz Nasirzadeh** — Defense Minister
-- **Feb 28, 2026** — Supreme Leader **Ali Khamenei killed** in strike on his compound in Tehran
-- **Feb 28, 2026** — **"Operation Roaring Lion"** (Israel) and **"Operation Epic Fury"** (US) commence
-- **Feb 24, 2026** — Trump accuses Iran of reviving nuclear weapons program during State of the Union
-- **Feb 19, 2026** — Largest US military buildup since 2003 deployed to Middle East
-- **Feb 13, 2026** — Trump states regime change in Iran would be "the best thing that could happen"
-- **Feb 3, 2026** — IRGC gunboats attempt to seize a US tanker in the Strait of Hormuz
-
-## Dismantling the Network (2025)
-
-- **Jan 2026** — Regime cracks down: **"2026 Iran Massacres"** — thousands of protesters killed
-- **Dec 2025** — Massive protests erupt across 100+ Iranian cities; economic collapse, rial in hyperinflation
-- **Jun 24, 2025** — Ceasefire announced after the **"Twelve-Day War"**
-- **Jun 21, 2025** — US joins the fight; strikes Fordow, Natanz, and Isfahan nuclear sites
-- **Jun 15, 2025** — IRGC Intelligence chief **Mohammad Kazemi** killed in airstrikes
-- **Jun 13, 2025** — IRGC Commander-in-Chief **Hossein Salami** killed in opening strikes
-- **Jun 13, 2025** — Israel launches **"Operation Rising Lion"**; strikes Iranian nuclear facilities and IRGC HQ
-- **Jun 12, 2025** — IAEA finds Iran non-compliant with nuclear obligations
-
-## The Spark (Oct 2023 – Late 2024)
-
-- **Oct 26, 2024** — Israel openly strikes Iran for first time, hitting air defense systems and missile sites
-- **Oct 16, 2024** — Hamas leader **Yahya Sinwar** killed in Gaza
-- **Sep 27, 2024** — Hezbollah leader **Hassan Nasrallah** killed in Beirut airstrike; IRGC commander **Abbas Nilforoushan** also killed
-- **Jul 31, 2024** — Hamas political leader **Ismail Haniyeh** assassinated in Tehran
-- **Apr 2024** — First direct Israel-Iran missile exchange in history; Israel strikes Iranian consulate in Damascus, Iran retaliates
-- **Oct 8, 2023** — Iran-backed Hezbollah opens northern front, fires rockets into Israel
-- **Oct 7, 2023** — Iran-backed Hamas launches surprise attack on Israel; ~1,200 killed, 240+ hostages taken
+- <span class="timeline-date">Mar 1, 2026</span> — Ali Khamenei's death is confirmed by Iranian state media; 40 days of mourning are declared
+- <span class="timeline-date">Mar 1, 2026</span> — Iran retaliates with missiles targeting Israel, the UAE, Qatar, and other Gulf states
+- <span class="timeline-date">Feb 28, 2026</span> — 48+ senior military and political leaders are killed, including:
+  - [Mohammad Pakpour](https://en.wikipedia.org/wiki/Mohammad_Pakpour#Death) — IRGC Commander-in-Chief
+  - [Ali Shamkhani](https://en.wikipedia.org/wiki/Ali_Shamkhani#Assassination_attempt_and_death) — Secretary, Defense Council
+  - [Abdolrahim Mousavi](https://en.wikipedia.org/wiki/Abdolrahim_Mousavi#Death) — Chief of Staff, Iranian Armed Forces
+  - [Aziz Nasirzadeh](https://en.wikipedia.org/wiki/Aziz_Nasirzadeh#Death) — Defense Minister
+- <span class="timeline-date">Feb 28, 2026</span> — Supreme Leader [Ali Khamenei](https://en.wikipedia.org/wiki/Ali_Khamenei#Death) is killed in a strike on his compound in Tehran
+- <span class="timeline-date">Feb 28, 2026</span> — [Operation Roaring Lion (Israel) and Operation Epic Fury (US)](https://en.wikipedia.org/wiki/2026_Israeli%E2%80%93United_States_strikes_on_Iran) commence
+- <span class="timeline-date">Feb 24, 2026</span> — President Donald Trump accuses Iran of reviving its nuclear weapons program during his State of the Union address
+- <span class="timeline-date">Feb 19, 2026</span> — The largest US military buildup since 2003 is deployed to the Middle East
+- <span class="timeline-date">Feb 13, 2026</span> — President Donald Trump states that regime change in Iran would be "the best thing that could happen"
+- <span class="timeline-date">Feb 3, 2026</span> — IRGC gunboats attempt to seize a US tanker in the Strait of Hormuz
+- <span class="timeline-date">Jan 2026</span> — The regime cracks down: the [2026 Iran massacres](https://en.wikipedia.org/wiki/2026_Iran_massacres) begin — thousands of protesters are killed
+- <span class="timeline-date">Dec 2025</span> — [Massive protests erupt across 100+ Iranian cities](https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests) amid economic collapse; the rial enters hyperinflation
+- <span class="timeline-date">Jun 24, 2025</span> — A ceasefire is announced after the [Twelve-Day War](https://en.wikipedia.org/wiki/Twelve-Day_War)
+- <span class="timeline-date">Jun 21, 2025</span> — The US joins the fight, [striking](https://en.wikipedia.org/wiki/United_States_strikes_on_Iranian_nuclear_sites) the Fordow, Natanz, and Isfahan nuclear sites
+- <span class="timeline-date">Jun 15, 2025</span> — IRGC Intelligence Chief [Mohammad Kazemi](https://en.wikipedia.org/wiki/Mohammad_Kazemi_(IRGC_officer)#Death) is killed in airstrikes
+- <span class="timeline-date">Jun 13, 2025</span> — IRGC Commander-in-Chief [Hossein Salami](https://en.wikipedia.org/wiki/Hossein_Salami#Death) is killed in opening strikes
+- <span class="timeline-date">Jun 13, 2025</span> — Israel launches [Operation Rising Lion](https://en.wikipedia.org/wiki/Operation_Rising_Lion); strikes Iranian nuclear facilities and IRGC headquarters
+- <span class="timeline-date">Jun 12, 2025</span> — The IAEA finds Iran non-compliant with its nuclear obligations
+- <span class="timeline-date">Oct 26, 2024</span> — Israel launches [Operation Days of Repentance](https://en.wikipedia.org/wiki/October_2024_Israeli_strikes_on_Iran), openly striking Iran for the first time by hitting air defense systems and missile sites
+- <span class="timeline-date">Oct 16, 2024</span> — Hamas leader [Yahya Sinwar](https://en.wikipedia.org/wiki/Yahya_Sinwar#Death) is killed in Gaza
+- <span class="timeline-date">Early Oct, 2024</span> — [Hashem Safieddine](https://en.wikipedia.org/wiki/Hashem_Safieddine#Assassination), Hezbollah leader Hassan Nasrallah's presumed successor, is killed in a massive Israeli bunker-buster strike in Beirut
+- <span class="timeline-date">Oct 1, 2024</span> — [Iran launches nearly 200 ballistic missiles](https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_on_Israel) at Israel in retaliation for the assassinations of Haniyeh, Nasrallah, and Nilforoushan
+- <span class="timeline-date">Sep 27, 2024</span> — Hezbollah leader [Hassan Nasrallah](https://en.wikipedia.org/wiki/Hassan_Nasrallah#Assassination) is killed in a Beirut airstrike during [Operation New Order](https://en.wikipedia.org/wiki/Assassination_of_Hassan_Nasrallah); IRGC commander [Abbas Nilforoushan](https://en.wikipedia.org/wiki/Abbas_Nilforoushan#Death) is also killed
+- <span class="timeline-date">Sep 17–18, 2024</span> — Thousands of [pagers and walkie-talkies](https://en.wikipedia.org/wiki/2024_Lebanon_pager_explosions) used by Hezbollah detonate simultaneously across Lebanon, killing dozens and severely crippling the group's communications network
+- <span class="timeline-date">Jul 31, 2024</span> — Hamas political leader [Ismail Haniyeh](https://en.wikipedia.org/wiki/Assassination_of_Ismail_Haniyeh) is assassinated in Tehran
+- <span class="timeline-date">Jul 30, 2024</span> — Senior Hezbollah military commander [Fuad Shukr](https://en.wikipedia.org/wiki/Fuad_Shukr#Death) is assassinated in Beirut
+- <span class="timeline-date">Jul 13, 2024</span> — Hamas military chief [Mohammed Deif](https://en.wikipedia.org/wiki/Mohammed_Deif#Assassination) is killed in a massive Israeli airstrike in Gaza
+- <span class="timeline-date">May 19, 2024</span> — Iranian President [Ebrahim Raisi](https://en.wikipedia.org/wiki/Ebrahim_Raisi_helicopter_crash) and Foreign Minister [Hossein Amir-Abdollahian](https://en.wikipedia.org/wiki/Hossein_Amir-Abdollahian#Death) are killed in a helicopter crash
+- <span class="timeline-date">Apr 2024</span> — First direct Israel-Iran missile exchange in history; [Israel strikes the Iranian consulate in Damascus](https://en.wikipedia.org/wiki/2024_Iranian_consulate_airstrike_in_Damascus), killing IRGC Quds Force commander [Mohammad Reza Zahedi](https://en.wikipedia.org/wiki/Mohammad_Reza_Zahedi#Death), and Iran retaliates with [Operation True Promise](https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel)
+- <span class="timeline-date">Jan 2, 2024</span> — Hamas Deputy Political Leader [Saleh al-Arouri](https://en.wikipedia.org/wiki/Assassination_of_Saleh_al-Arouri) is assassinated in a drone strike in Beirut
+- <span class="timeline-date">Dec 25, 2023</span> — Senior IRGC commander [Razi Mousavi](https://en.wikipedia.org/wiki/Razi_Mousavi#Death) is killed in an Israeli airstrike in Damascus
+- <span class="timeline-date">Oct 8, 2023</span> — Iran-backed [Hezbollah opens a northern front](https://en.wikipedia.org/wiki/Israel%E2%80%93Hezbollah_conflict_(2023%E2%80%93present)), firing rockets into Israel
+- <span class="timeline-date">Oct 7, 2023</span> — Iran-backed Hamas launches [Operation Al-Aqsa Flood](https://en.wikipedia.org/wiki/2023_Hamas-led_attack_on_Israel), a surprise attack on Israel; ~1,200 are killed, and 240+ hostages are taken

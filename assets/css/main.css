@@ -14,8 +14,16 @@
 [data-theme="dark"] {
   --palette-black: #fafafa;
   --palette-white: #222222;
-  --palette-gray: #aaaaaa;
+  --palette-gray: #bbbbbb;
   --palette-light-gray: #efefef;
+}
+
+[data-theme="dark"] a {
+  color: #44cc77;
+}
+
+[data-theme="dark"] .title--answer {
+  color: var(--palette-iran);
 }
 
 html {
@@ -140,7 +148,7 @@ main li {
   padding: 1rem 0;
   padding-top: 2rem;
   line-height: 1.5;
-  border-top: 1px solid var(--palette-black);
+
   font-size: 0.9rem;
 }
 

@@ -28,6 +28,7 @@ html {
 
 a {
   color: var(--palette-gray);
+  font-weight: bold;
 }
 
 small {
@@ -48,7 +49,7 @@ button {
 
 .title--answer {
   margin: 4rem 0;
-  font-size: 7rem;
+  font-size: 3rem;
 }
 
 .title--not-found {
@@ -115,6 +116,11 @@ main ul {
 main li {
   margin: 0.75rem 0;
   line-height: 1.5;
+}
+
+.timeline-date {
+  color: var(--palette-iran);
+  font-weight: bolder;
 }
 
 .notes {

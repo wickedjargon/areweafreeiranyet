@@ -1,0 +1,144 @@
+:root {
+  --palette-black: #222222;
+  --palette-gray: #666666;
+  --palette-light-gray: #666666;
+  --palette-green: #009b3a;
+  /* Iran flag green */
+  --palette-red: #da0000;
+  /* Iran flag red */
+  --palette-iran: #009b3a;
+  /* primary accent */
+  --palette-white: #fafafa;
+}
+
+[data-theme="dark"] {
+  --palette-black: #fafafa;
+  --palette-white: #222222;
+  --palette-gray: #aaaaaa;
+  --palette-light-gray: #efefef;
+}
+
+html {
+  font-size: 16px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: var(--palette-black);
+  background: var(--palette-white);
+}
+
+a {
+  color: var(--palette-gray);
+}
+
+small {
+  font-size: 0.6rem;
+}
+
+button {
+  border: none;
+  background: transparent;
+  outline: none;
+}
+
+.title--question {
+  margin-top: 6rem;
+  font-size: 3rem;
+  color: var(--palette-gray);
+}
+
+.title--answer {
+  margin: 4rem 0;
+  font-size: 7rem;
+}
+
+.title--not-found {
+  margin: 4rem 0;
+}
+
+.weight--400 {
+  font-weight: 400;
+}
+
+.btn {
+  padding: 0.25rem 0.5rem;
+  color: var(--palette-black);
+  border: 2px solid transparent;
+}
+
+.btn:hover {
+  cursor: pointer;
+  color: var(--palette-white);
+  background: var(--palette-black);
+}
+
+.btn:focus {
+  outline: 2px dotted var(--palette-black);
+}
+
+.btn:active {
+  border-color: var(--palette-iran);
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.btn--dark-mode {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
+
+.accent--iran {
+  padding: 0 8px;
+  background: var(--palette-iran);
+  color: var(--palette-white);
+}
+
+main h2:not(.title--answer) {
+  margin-top: 3rem;
+  font-size: 1.4rem;
+  font-weight: bolder;
+}
+
+main ul {
+  margin-top: 1rem;
+  padding: 0;
+  font-size: 1.1rem;
+  text-align: left;
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
+
+main li {
+  margin: 0.75rem 0;
+  line-height: 1.5;
+}
+
+.notes {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 3rem;
+  padding: 1rem 0;
+  padding-top: 2rem;
+  line-height: 1.5;
+  border-top: 1px solid var(--palette-black);
+  font-size: 0.9rem;
+}
+
+.notes__date {
+  color: var(--palette-gray);
+}
+
+@media (max-width: 812px) {
+  h1 {
+    margin-top: 4rem;
+  }
+
+  h2 {
+    margin: 3rem 0;
+    font-size: 5rem;
+  }
+}

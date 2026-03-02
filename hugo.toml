@@ -1,0 +1,15 @@
+baseURL = "https://areweafreeiranyet.com/"
+languageCode = "en-us"
+title = "Are we a Free Iran yet?"
+
+disableKinds = ["taxonomy", "term"]
+
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[build]
+  noJSConfigInAssets = true

@@ -8,6 +8,7 @@
     <base href="{{ .Site.BaseURL }}">
     <title> {{ .Title }} </title>
     <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 
     {{ $normalizeStyles := resources.Get "css/normalize.css" }}
     {{ $mainStyles := resources.Get "css/main.css" }}

@@ -2,7 +2,7 @@
 title: "Are we a Free Iran yet?"
 ---
 
-Here is a timeline of events leading up to the fall of the Islamic Republic of Iran:
+<p class="intro-text">Here is a timeline of events leading up to what we hope will be the fall of the Islamic Republic of Iran and the establishment of a Free Iran:</p>
 
 - <span class="timeline-date">Mar 1, 2026</span> — Ali Khamenei's death is confirmed by Iranian state media; 40 days of mourning are declared
 - <span class="timeline-date">Mar 1, 2026</span> — Iran retaliates with missiles targeting Israel, the UAE, Qatar, and other Gulf states
@@ -36,7 +36,11 @@ Here is a timeline of events leading up to the fall of the Islamic Republic of I
 - <span class="timeline-date">Jul 13, 2024</span> — Hamas military chief [Mohammed Deif](https://en.wikipedia.org/wiki/Mohammed_Deif#Assassination) is killed in a massive Israeli airstrike in Gaza
 - <span class="timeline-date">May 19, 2024</span> — Iranian President [Ebrahim Raisi](https://en.wikipedia.org/wiki/Ebrahim_Raisi_helicopter_crash) and Foreign Minister [Hossein Amir-Abdollahian](https://en.wikipedia.org/wiki/Hossein_Amir-Abdollahian#Death) are killed in a helicopter crash
 - <span class="timeline-date">Apr 2024</span> — First direct Israel-Iran missile exchange in history; [Israel strikes the Iranian consulate in Damascus](https://en.wikipedia.org/wiki/2024_Iranian_consulate_airstrike_in_Damascus), killing IRGC Quds Force commander [Mohammad Reza Zahedi](https://en.wikipedia.org/wiki/Mohammad_Reza_Zahedi#Death), and Iran retaliates with [Operation True Promise](https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel)
+- <span class="timeline-date">Jan 28, 2024</span> — An Iran-backed militia drone strike kills three US soldiers at the [Tower 22](https://en.wikipedia.org/wiki/Tower_22_drone_attack) outpost in Jordan. The US retaliates with massive airstrikes across Iraq and Syria
+- <span class="timeline-date">Jan 8, 2024</span> — Senior Hezbollah Radwan Force commander [Wissam al-Tawil](https://en.wikipedia.org/wiki/Wissam_al-Tawil) is assassinated in an Israeli airstrike in Lebanon
+- <span class="timeline-date">Jan 3, 2024</span> — [Two bombings in Kerman](https://en.wikipedia.org/wiki/Kerman_bombings) during a Qasem Soleimani memorial kill 94 people; the deadliest attack in Iran in decades. Iran retaliates with strikes in Iraq, Syria, and Pakistan
 - <span class="timeline-date">Jan 2, 2024</span> — Hamas Deputy Political Leader [Saleh al-Arouri](https://en.wikipedia.org/wiki/Assassination_of_Saleh_al-Arouri) is assassinated in a drone strike in Beirut
 - <span class="timeline-date">Dec 25, 2023</span> — Senior IRGC commander [Razi Mousavi](https://en.wikipedia.org/wiki/Razi_Mousavi#Death) is killed in an Israeli airstrike in Damascus
+- <span class="timeline-date">Late 2023</span> — Iran-backed Houthi forces in Yemen launch a sustained [anti-shipping campaign in the Red Sea](https://en.wikipedia.org/wiki/Red_Sea_crisis), triggering US and UK coalition airstrikes
 - <span class="timeline-date">Oct 8, 2023</span> — Iran-backed [Hezbollah opens a northern front](https://en.wikipedia.org/wiki/Israel%E2%80%93Hezbollah_conflict_(2023%E2%80%93present)), firing rockets into Israel
 - <span class="timeline-date">Oct 7, 2023</span> — Iran-backed Hamas launches [Operation Al-Aqsa Flood](https://en.wikipedia.org/wiki/2023_Hamas-led_attack_on_Israel), a surprise attack on Israel; ~1,200 are killed, and 240+ hostages are taken

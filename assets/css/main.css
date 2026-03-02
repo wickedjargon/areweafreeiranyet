@@ -95,7 +95,7 @@ main {
 .accent--iran {
   padding: 0 8px;
   background: var(--palette-iran);
-  color: var(--palette-white);
+  color: #fafafa;
 }
 
 main h2:not(.title--answer) {
@@ -116,6 +116,16 @@ main ul {
 main li {
   margin: 0.75rem 0;
   line-height: 1.5;
+}
+
+.intro-text {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  text-align: left;
+  font-style: italic;
+  color: var(--palette-gray);
+  margin: 2rem auto 2.5rem;
+  max-width: 700px;
 }
 
 .timeline-date {

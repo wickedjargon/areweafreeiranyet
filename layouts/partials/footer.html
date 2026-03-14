@@ -1,5 +1,5 @@
 <footer class="notes">
     <span class="notes__date">
-        Last updated: {{ now.Format "2 January 2006" }}
+        {{ $pt := now }}{{ $offset := time.ParseDuration "3h" }}{{ $et := $pt.Add $offset }}Last updated: {{ $et.Format "2 January 2006, 3:04 PM" }} ET / {{ $pt.Format "3:04 PM" }} PT
     </span>
 </footer>

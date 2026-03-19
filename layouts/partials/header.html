@@ -1,3 +1,7 @@
+<nav class="site-nav">
+    <a href="/" {{ if eq .RelPermalink "/" }}class="active"{{ end }}>Timeline</a>
+    <a href="/hitlist/" {{ if eq .RelPermalink "/hitlist/" }}class="active"{{ end }}>Hit List</a>
+</nav>
 <button id="dark-mode" class="btn btn--dark-mode" type="button">
     Dark mode
 </button>

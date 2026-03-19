@@ -4,6 +4,13 @@ title: "Are we a Free Iran yet?"
 
 <p class="intro-text">Here is a timeline of events leading up to what we hope will be the fall of the Islamic Republic of Iran and the establishment of a Free Iran:</p>
 
+- <span class="timeline-date">Mar 17, 2026</span> — [Ali Larijani](https://en.wikipedia.org/wiki/Ali_Larijani#Assassination), Secretary of the Supreme National Security Council and de facto leader of Iran, is killed in an Israeli airstrike in Tehran; Basij commander [Gholamreza Soleimani](https://en.wikipedia.org/wiki/Gholamreza_Soleimani#Assassination) and ~300 Basij officials are also killed in overnight strikes on field offices
+- <span class="timeline-date">Mar 16, 2026</span> — Iran's First Vice President [Mohammad Reza Aref](https://en.wikipedia.org/wiki/Mohammad_Reza_Aref#Assassination_attempt) narrowly survives an Israeli assassination attempt in Tehran
+- <span class="timeline-date">Mar 16, 2026</span> — Senior Kata'ib Hezbollah commander Abu Ali al-Askari is killed in a strike in Baghdad
+- <span class="timeline-date">Mar 15, 2026</span> — Massive joint US-Israel airstrikes hit multiple Iranian cities including Isfahan, Shiraz, Hamadan, and the port of Jask, causing extensive damage to military and port infrastructure
+- <span class="timeline-date">Mar 14, 2026</span> — Two senior Khatam al-Anbiya intelligence commanders are killed in an Israeli airstrike in Tehran
+- <span class="timeline-date">Mar 13, 2026</span> — An Iranian missile strike on Zarzir, Israel damages ~300 homes and injures at least 60 civilians
+- <span class="timeline-date">Mar 12, 2026</span> — [Mojtaba Khamenei](https://en.wikipedia.org/wiki/Mojtaba_Khamenei) makes his first public statement as Supreme Leader, vowing to keep the Strait of Hormuz closed
 - <span class="timeline-date">Mar 11, 2026</span> — The IRGC attacks the Thai-flagged bulk carrier *Mayuree Naree* in the Strait of Hormuz, setting it ablaze; at least three commercial ships are struck, bringing the total to 14 since Feb 28
 - <span class="timeline-date">Mar 11, 2026</span> — The IEA orders the largest-ever release of government oil reserves (~400 million barrels) to stabilize prices amid Iran's effective closure of the Strait of Hormuz
 - <span class="timeline-date">Mar 11, 2026</span> — The UN Security Council passes a resolution demanding Iran cease attacks on Gulf shipping and neighboring states
@@ -32,7 +39,7 @@ title: "Are we a Free Iran yet?"
   - [Ali Shamkhani](https://en.wikipedia.org/wiki/Ali_Shamkhani#Assassination_attempt_and_death) — Secretary, Defense Council
   - [Abdolrahim Mousavi](https://en.wikipedia.org/wiki/Abdolrahim_Mousavi#Death) — Chief of Staff, Iranian Armed Forces
   - [Aziz Nasirzadeh](https://en.wikipedia.org/wiki/Aziz_Nasirzadeh#Death) — Defense Minister
-  - [Mohammad Shirazi](https://en.wikipedia.org/wiki/Mohammad_Shirazi_(general)) — Head, Military Office of the Supreme Leader
+  - [Mohammad Shirazi](https://en.wikipedia.org/wiki/Mohammad_Shirazi_(general)#Assassination) — Head, Military Office of the Supreme Leader
 - <span class="timeline-date">Feb 28, 2026</span> — Supreme Leader [Ali Khamenei](https://en.wikipedia.org/wiki/Ali_Khamenei#Death) is killed in a strike on his compound in Tehran
 - <span class="timeline-date">Feb 28, 2026</span> — [Operation Roaring Lion (Israel) and Operation Epic Fury (US)](https://en.wikipedia.org/wiki/2026_Israeli%E2%80%93United_States_strikes_on_Iran) commence
 - <span class="timeline-date">Feb 28, 2026</span> — Iran retaliates with missile and drone strikes on US bases across Iraq, Jordan, Bahrain, Qatar, Kuwait, and the UAE

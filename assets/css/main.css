@@ -94,6 +94,10 @@ main {
   padding: 0 1rem;
 }
 
+main.commanders-main {
+  max-width: 960px;
+}
+
 .btn--dark-mode {
   position: absolute;
   right: 1rem;
@@ -156,6 +160,195 @@ main li {
   color: var(--palette-gray);
 }
 
+/* ── Commanders Page ── */
+
+.commanders-stats {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  margin: 2rem 0 2.5rem;
+  flex-wrap: wrap;
+}
+
+.commanders-stats__item {
+  font-size: 1.15rem;
+  font-weight: 700;
+  padding: 0.5rem 1.2rem;
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.05);
+  cursor: pointer;
+  transition: background 0.15s ease, box-shadow 0.15s ease;
+  font-family: inherit;
+  color: var(--palette-gray);
+}
+
+.commanders-stats__item:hover {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] .commanders-stats__item:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.commanders-stats__item.active {
+  box-shadow: 0 2px 0 currentColor;
+}
+
+[data-theme="dark"] .commanders-stats__item {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.commanders-stats__item--killed {
+  color: var(--palette-red);
+}
+
+.commanders-stats__item--alive {
+  color: var(--palette-green);
+}
+
+.commanders-stats__item--all {
+  color: var(--palette-black);
+}
+
+.commanders-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0 3rem;
+}
+
+.commander-card {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: var(--palette-white);
+}
+
+[data-theme="dark"] .commander-card {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.commander-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}
+
+[data-theme="dark"] .commander-card:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}
+
+.commander-card--killed {
+  border-left: 4px solid var(--palette-red);
+}
+
+.commander-card--alive {
+  border-left: 4px solid var(--palette-green);
+}
+
+.commander-photo-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  background: #333;
+}
+
+.commander-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.commander-badge {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  font-size: 1.5rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+}
+
+.commander-info {
+  padding: 0.9rem 1rem 1rem;
+}
+
+.commander-name {
+  margin: 0 0 0.2rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.commander-name a {
+  text-decoration: none;
+  color: var(--palette-black);
+}
+
+[data-theme="dark"] .commander-name a {
+  color: #44cc77;
+}
+
+.commander-name a:hover {
+  text-decoration: underline;
+}
+
+.commander-title {
+  margin: 0 0 0.5rem;
+  font-size: 0.82rem;
+  color: var(--palette-gray);
+  line-height: 1.4;
+}
+
+.commander-details {
+  margin: 0;
+  font-size: 0.78rem;
+  color: var(--palette-gray);
+  line-height: 1.5;
+  font-style: italic;
+}
+
+.commander-date {
+  font-weight: 700;
+  font-style: normal;
+  color: var(--palette-iran);
+}
+
+/* ── Navigation ── */
+
+.site-nav {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 1rem;
+  font-size: 0.95rem;
+}
+
+.site-nav a {
+  text-decoration: none;
+  padding: 0.3rem 0.7rem;
+  border-radius: 4px;
+  transition: background 0.15s ease;
+}
+
+.site-nav a:hover {
+  background: rgba(0, 155, 58, 0.1);
+}
+
+.site-nav a.active {
+  font-weight: 700;
+  color: var(--palette-iran);
+}
+
+/* ── Media queries ── */
+
 @media (max-width: 812px) {
   h1 {
     margin-top: 4rem;
@@ -164,5 +357,22 @@ main li {
   h2 {
     margin: 3rem 0;
     font-size: 5rem;
+  }
+
+  .commanders-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .commanders-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .commanders-stats {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
   }
 }

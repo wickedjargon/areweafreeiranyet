@@ -1,0 +1,70 @@
+{{ define "main" }}
+<main class="commanders-main" aria-role="main">
+
+    <h1 class="title--question">
+        The <span class="accent--iran">{{ .Title }}</span>
+    </h1>
+
+    {{ .Content }}
+
+    <!-- Stats / filter bar -->
+    {{ $killed := 0 }}{{ $alive := 0 }}
+    {{ range .Params.commanders }}
+        {{ if eq .status "killed" }}{{ $killed = add $killed 1 }}
+        {{ else }}{{ $alive = add $alive 1 }}{{ end }}
+    {{ end }}
+    <div class="commanders-stats">
+        <button class="commanders-stats__item commanders-stats__item--all active" data-filter="all">Show All</button>
+        <button class="commanders-stats__item commanders-stats__item--killed" data-filter="killed">☠️ {{ $killed }} Killed</button>
+        <button class="commanders-stats__item commanders-stats__item--alive" data-filter="alive">🟢 {{ $alive }} Alive</button>
+    </div>
+
+    <div class="commanders-grid">
+        {{ range .Params.commanders }}
+        <div class="commander-card commander-card--{{ .status }}" data-status="{{ .status }}">
+            <div class="commander-photo-wrap">
+                {{ $imgPath := printf "/images/commanders/%s" .image }}
+                <img class="commander-photo" src="{{ $imgPath }}" alt="{{ .name }}" loading="lazy">
+                <span class="commander-badge commander-badge--{{ .status }}">
+                    {{ if eq .status "killed" }}☠️{{ else }}🟢{{ end }}
+                </span>
+            </div>
+            <div class="commander-info">
+                <h3 class="commander-name">
+                    {{ if .wikipedia }}<a href="{{ .wikipedia }}">{{ .name }}</a>{{ else }}{{ .name }}{{ end }}
+                </h3>
+                <p class="commander-title">{{ .title }}</p>
+                <p class="commander-details">
+                    {{ if .date }}<span class="commander-date">{{ .date }}</span> — {{ end }}{{ .description }}
+                </p>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+</main>
+
+<script>
+(function() {
+    var buttons = document.querySelectorAll('.commanders-stats__item[data-filter]');
+    var cards = document.querySelectorAll('.commander-card[data-status]');
+
+    buttons.forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            var filter = btn.getAttribute('data-filter');
+
+            buttons.forEach(function(b) { b.classList.remove('active'); });
+            btn.classList.add('active');
+
+            cards.forEach(function(card) {
+                if (filter === 'all' || card.getAttribute('data-status') === filter) {
+                    card.style.display = '';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+    });
+})();
+</script>
+{{ end }}

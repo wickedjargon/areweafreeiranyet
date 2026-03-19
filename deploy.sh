@@ -3,6 +3,7 @@ set -e
 
 # Build the Hugo site locally
 echo "Building Hugo site..."
+rm -rf public
 hugo
 
 # Sync the generated public/ directory to the remote server
